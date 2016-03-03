@@ -9,3 +9,4 @@ frank-avail shared_large 2>/dev/null | head -5 | tail -3
 echo "---------     -----  -----  ------------  ------------  --------------"
 echo "DIST_BIG"
 frank-avail dist_big 2>/dev/null | head -5 | tail -3
+echo "---------     -----  -----  ------------  ------------  --------------"
